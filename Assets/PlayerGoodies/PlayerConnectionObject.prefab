@@ -84,6 +84,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1b85d206990a9a54ba27044a002a9664, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerUnitPrefab: {fileID: 1147845186703410, guid: 7d98863818bff154c989c3fedffa1dd4,
+  PlayerUnitPrefab: {fileID: 1605227462784542, guid: 76b6bdbb19a9e1b46a5952606f0a9159,
     type: 2}
   PlayerName: Anonymus cumbiero

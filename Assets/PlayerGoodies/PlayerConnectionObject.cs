@@ -22,6 +22,7 @@ public class PlayerConnectionObject : NetworkBehaviour {
     public string PlayerName = "Anonymus cumbiero";
 	// Update is called once per frame
 	void Update () {
+        /*
         if (Input.GetKeyDown(KeyCode.S))
         {
             CmdSpawnMyUnit();
@@ -30,7 +31,7 @@ public class PlayerConnectionObject : NetworkBehaviour {
         {
             CmdChangePlayerName("Mati " + Random.Range(1, 100));
         }
-
+        */
     }
     [Command]
     void CmdSpawnMyUnit()
